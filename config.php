@@ -1,4 +1,4 @@
 <?php
-mysql_connect("localhost","root","1234");
-mysql_select_db("ujian");
+mysql_connect("localhost","root","");
+mysql_select_db("Pondok_Kelapa");
 ?> 
